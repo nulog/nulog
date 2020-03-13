@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+be2214fc970b4df22b09d15fd3b5b9ae,<*> <*> <*> <*> <*> <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e63791f2e6160ba58956c93d724c78e8,<*> instance <*> <*> for <*> <*> <*> <*> <*><*><*><*><*> <*> <*> <*><*><*><*><*> <*> <*>
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+be2214fc970b4df22b09d15fd3b5b9ae,<*> <*> <*> <*> <*> <*>
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+310373ce80d8a6d7509c34b0eca4f18c,<*> instance <*> for <*> <*> <*> <*> <*> <*> <*> <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+310373ce80d8a6d7509c34b0eca4f18c,<*> instance <*> for <*> <*> <*> <*> <*> <*> <*> <*>
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+310373ce80d8a6d7509c34b0eca4f18c,<*> instance <*> for <*> <*> <*> <*> <*> <*> <*> <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+5df25dd7c842bc3ef5240518cc5d36dd,"[instance: <*>] Total disk: <*> GB, used<*> <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+d42573c693e8761b89ab46b09bb457c0,<*> <*> instance <*><*><*> <*> <*> <*> <*> the <*> <*> <*> <*> on the <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+310373ce80d8a6d7509c34b0eca4f18c,<*> instance <*> for <*> <*> <*> <*> <*> <*> <*> <*>
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+310373ce80d8a6d7509c34b0eca4f18c,<*> instance <*> for <*> <*> <*> <*> <*> <*> <*> <*>
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+27286d97c38bc40304cb4e9fd2b4ca66,[instance: <*>] Deleting instance files <*>
+822b21a7ef562a576688fb15607a3d0b,[instance: <*>] Deletion of <*> complete
+a4ab0dee36722ae454997582e799c14b,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+652a820eb294cbd32381b3c171755f9d,[instance: <*>] Took <*> seconds to deallocate network for instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+66acd71eeb89d5a14cbc2b25d7a0abee,HTTP exception thrown: No instances found for any event
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+b7d6364d203797b2a0c276d76ffb1050,Base or swap file too young to remove: <*>
+51387d9b1c1ad43aad4f4028de0e4f04,Unknown base file: <*>
+3964d7852f89e8a7683c47daf5d556e9,Removable base files: <*>
+8087023c05ab48987b265b38c797108f,Removing base or swap file: <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+649b93897103e98485fd5a67a3d2e76e,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+61f5f77a34c5f884fd725194ea5555c8,"[instance: <*>] Total memory: <*> MB, used: <*> MB"
+4274cf92763731ae6527a614e3ec2974,"[instance: <*>] memory limit: <*> MB, free: <*> MB"
+524d797683000d184aeffc4ef514a507,"[instance: <*>] Total disk: <*> GB, used: <*> GB"
+b6262c55e7b6e24f511ee705057519e1,"[instance: <*>] disk limit not specified, defaulting to unlimited"
+dae1599d915d1f31a59af29b72384049,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+1c72f1dd2db0f7b5473811382ba61a40,"[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+ad03d9ef5faf6c66b143ddbc3bcd79ef,[instance: <*>] Claim successful
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+50e0ef3170d34e3b881cf3639764f100,[instance: <*>] Creating image
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+c583951f3536977b0fbbd1c0702c9d3b,[instance: <*>] VM <*> (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+61a90d8b3ad905c40c426992a5a63a28,Auditing locally available compute resources for node <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+346c93fcfab080d0e5bffadbd1d1e4ac,Total usable vcpus: <*> total allocated vcpus: <*>
+d0c14aa4d73b564fd90c8e25217306c2,Final resource view: <*> <*> <*> <*> <*> <*> <*> pci_stats=[]
+5cc866c8015035e71a587f95c55b3ccd,Compute_service record updated for <*>:<*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+e62ddd64bb39a19320b27c550e94803b,[instance: <*>] VM Started (Lifecycle Event)
+3f57c2b3f5a3f00b67b93210f399d079,[instance: <*>] VM Paused (Lifecycle Event)
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+3b70c34ad1c2c0145f7932a052a07d87,Creating event network-vif-plugged:<*> for instance <*>
+92438e34ef382244592e8c3db738774c,"<*> ""POST <*> <*>"" status: <*> len: <*> time: <*>"
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+796fd834e50afb782f2de64f1860ddd4,[instance: <*>] Instance spawned successfully.
+9f276c62fcd1ed1d81e26d5170b49f13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+18ca7006ac83c510e09db224c88e07cf,[instance: <*>] During sync_power_state the instance has a pending task <*>spawning). Skip.
+16b764ff29d700160254fc223805a568,[instance: <*>] VM Resumed (Lifecycle Event)
+e51c49ab2e9e548573535a2130c6e753,[instance: <*>] Took <*> seconds to build instance.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+904416f0634d6fec59c5f35bfe049082,image <*> at (<*>): checking
+1ea73ca53c3de33a826e048b514514d7,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+b36febb0c06cefa9e10b7ade2fc2c522,Active base files: <*>
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+777686631e3f0f9331b6722e7a7d1f4b,"<*> ""DELETE <*> <*>"" status: <*> len: <*> time: <*>"
+064762220b1becbff404222bd79f6138,[instance: <*>] Terminating instance
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"
+93995b30d3321c7d4245eef4c24fd62b,[instance: <*>] Instance destroyed successfully.
+0f8364e0cfbbbd52ced1e376286067af,"<*> ""GET <*> <*>"" status: <*> len: <*> time: <*>"

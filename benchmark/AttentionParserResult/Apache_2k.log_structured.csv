@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+7f2c04e9092c735bd1518ab28c705827,<*> Cant find child <*> in scoreboard
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+4b6cfcaeeb996bd202b8681e5dc92185,mod_jk child init <*> <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+517197a4b79c4cdb293c714640dc3e30,[client <*> Directory index forbidden by rule: /var/www/html/
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+b830b57dcb045bbabccc97971ab48dcb,<*> Found child <*> in scoreboard slot <*>
+e105cbb5b6f3aa35c030219e4f72febf,workerEnv.init() ok <*>
+a54f5ca4261e15d1a393cd5ce2a59fd1,mod_jk child workerEnv in error state <*>

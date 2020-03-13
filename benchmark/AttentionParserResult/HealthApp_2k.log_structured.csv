@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+03a2155106fbd61ba3a8cd92cad2b4f1,isScreenOn true
+920566af2df6f84c9e5efb37d98f93b5,"screen status unknown,think screen <*>"
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+ba103867827d4b7e8f407c380c75ea51,flushTempCacheToDB <*> stand
+278014324c2b1d1e23f79f434f88cd8a,Alarm uploadStaticsToDB <*>
+3b251b90af6bc0d081aa986a07b2a88e,writeDataToDB size <*>
+3996af7cd234b71bfa5e057321d5a129,upLoadOneMinuteDataToEngine <*>
+3996af7cd234b71bfa5e057321d5a129,upLoadOneMinuteDataToEngine <*>
+3996af7cd234b71bfa5e057321d5a129,upLoadOneMinuteDataToEngine <*>
+3996af7cd234b71bfa5e057321d5a129,upLoadOneMinuteDataToEngine <*>
+3996af7cd234b71bfa5e057321d5a129,upLoadOneMinuteDataToEngine <*>
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+824b3d7bf9ffa5cd566d1f24f0f69657,"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+ff0f59de00726600c01db029db36e3e2,insertHiHealthData() checkAppType  <*> appID = <*>
+f13ffd3a4ebbefa25d3e74ae31692ae6,"insertHiHealthData() size = <*> = <*> Data Type = <*> = com.huawei.health,writeStatType = <*>"
+310d7738a43882e764e4270d115a6e0e,saveHealthDetailData() deviceID = <*>
+9617fb8701f80b467458fdca1686d607,saveStatData() type <*> = <*> = <*> is <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+9617fb8701f80b467458fdca1686d607,saveStatData() type <*> = <*> = <*> is <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+0ec8d9adb83dd2ff04e0f253a94d5501,saveHealthDetailData() saveOneDetailData fail hiHealthData = <*> = <*>
+9617fb8701f80b467458fdca1686d607,saveStatData() type <*> = <*> = <*> is <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+0ec8d9adb83dd2ff04e0f253a94d5501,saveHealthDetailData() saveOneDetailData fail hiHealthData = <*> = <*>
+9617fb8701f80b467458fdca1686d607,saveStatData() type <*> = <*> = <*> is <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+1809a7f06c61be5b7f11729370dc59c5,bulkSaveDetailHiHealthData() size = <*> = <*>
+c14566b102bbf4393f8bec2fdd22d5d7,startListenerChange subscribeList = <*>
+c961fe50c38b282a643f6dd7cad5f5e2,insertHiHealthData() <*> fail <*> = <*> = <*>
+034409f5033763b01b9c260e3577e5cd,insertHiHealthData() end totalTime = <*>
+85c0050e530c991fa37dfd3ca3333f3c,<*> <*>  type = <*> <*>
+161ba043e7a54ded9c872f93d27a56e7,uploadStaticsToDB failed message=true
+71835e93e150fe161eb089a04a7de47f,checkInsertStatus stepSum or calorieSum is enough
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+824b3d7bf9ffa5cd566d1f24f0f69657,"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+42ded8e24a0bdc05fe18365111005c52,checkInsertStatus stepStatSum or calorieStatSum is enough
+2b2b801d3cc5e9b7858538f2338f6960,stepSyncOrNot appSynTimes is <*> statsyncTimes is <*>
+9b2e9261cd8033ed00f8ada99c2c74aa,"startInsertSportSync start auto sync,app is <*>"
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+dbdd914381efcf8aa46c2ca405716e9c,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+cdb47d81fdbcdbf308ba0b2f34b9b205,"startInsertSportSync first <*> steps sync,do all sync"
+5fed72bfabb019ae83385042a4f89cd4,getBinderPackageName packageName = com.huawei.health
+03208761ea4531828cab22fe8b6fd69e,startSync hiSyncOption = <*> <*> <*> <*> <*> <*> = <*> who = <*>
+ff0f59de00726600c01db029db36e3e2,insertHiHealthData() checkAppType  <*> appID = <*>
+f13ffd3a4ebbefa25d3e74ae31692ae6,"insertHiHealthData() size = <*> = <*> Data Type = <*> = com.huawei.health,writeStatType = <*>"
+6e805a4cfa8fed2c0847a5042f38be0f,needAutoSync autoSyncSwitch is open
+310d7738a43882e764e4270d115a6e0e,saveHealthDetailData() deviceID = <*>
+e4156b5858fee58f2238f4ce71ae1f8f,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+38085a58e00c43d3d7dd99fd1902bdd8,initDataPrivacy the dataPrivacy is true
+f257f2143d5474b271470936f27f9cef,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+1d4b8a6f1d3c1d3b342b64f1911896d8,initUserPrivacy the userPrivacy is true
+3f9b4da29bce17460e76fe659a43a3b3,ifCanSync not! no cloud version
+8764d489fd51dbe0690bead3dc8fab9d,sendSyncFailedBroadcast
+1809a7f06c61be5b7f11729370dc59c5,bulkSaveDetailHiHealthData() size = <*> = <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+a43e73fcc86ddffc99a25c1faa03e7c5,new date <*> <*>
+b6e9984980a89ff5e5b2029f0d4bea84,<*> size = <*> = <*>
+c14566b102bbf4393f8bec2fdd22d5d7,startListenerChange subscribeList = <*>
+034409f5033763b01b9c260e3577e5cd,insertHiHealthData() end totalTime = <*>
+85c0050e530c991fa37dfd3ca3333f3c,<*> <*>  type = <*> <*>
+25ba20f086ab7b45e391e7cea314019c,<*> success <*> <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+042d7a7a139078d81d81cd8925369e79,setWriteDBLastDataMinute success
+3ba054a13605005adcec34c0dfaa8605,<*> result success
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+71835e93e150fe161eb089a04a7de47f,checkInsertStatus stepSum or calorieSum is enough
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+42ded8e24a0bdc05fe18365111005c52,checkInsertStatus stepStatSum or calorieStatSum is enough
+2b2b801d3cc5e9b7858538f2338f6960,stepSyncOrNot appSynTimes is <*> statsyncTimes is <*>
+9b2e9261cd8033ed00f8ada99c2c74aa,"startInsertSportSync start auto sync,app is <*>"
+dbdd914381efcf8aa46c2ca405716e9c,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+cdb47d81fdbcdbf308ba0b2f34b9b205,"startInsertSportSync first <*> steps sync,do all sync"
+03208761ea4531828cab22fe8b6fd69e,startSync hiSyncOption = <*> <*> <*> <*> <*> <*> = <*> who = <*>
+6e805a4cfa8fed2c0847a5042f38be0f,needAutoSync autoSyncSwitch is open
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+e4156b5858fee58f2238f4ce71ae1f8f,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+38085a58e00c43d3d7dd99fd1902bdd8,initDataPrivacy the dataPrivacy is true
+f257f2143d5474b271470936f27f9cef,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+1d4b8a6f1d3c1d3b342b64f1911896d8,initUserPrivacy the userPrivacy is true
+3f9b4da29bce17460e76fe659a43a3b3,ifCanSync not! no cloud version
+8764d489fd51dbe0690bead3dc8fab9d,sendSyncFailedBroadcast
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5c7637ceb1016991b9c9ff452be2e83b,timeStamp <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+3ba40b70a6a0a9667e79418182687a80,startTimer start autoSync
+03208761ea4531828cab22fe8b6fd69e,startSync hiSyncOption = <*> <*> <*> <*> <*> <*> = <*> who = <*>
+71d384b3adaae638ae44650cce293dc7,stepSyncOrNot appSynTimes is <*>
+6e805a4cfa8fed2c0847a5042f38be0f,needAutoSync autoSyncSwitch is open
+e4156b5858fee58f2238f4ce71ae1f8f,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+38085a58e00c43d3d7dd99fd1902bdd8,initDataPrivacy the dataPrivacy is true
+f257f2143d5474b271470936f27f9cef,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+1d4b8a6f1d3c1d3b342b64f1911896d8,initUserPrivacy the userPrivacy is true
+3f9b4da29bce17460e76fe659a43a3b3,ifCanSync not! no cloud version
+8764d489fd51dbe0690bead3dc8fab9d,sendSyncFailedBroadcast
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5c7637ceb1016991b9c9ff452be2e83b,timeStamp <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5c7637ceb1016991b9c9ff452be2e83b,timeStamp <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+f52d23955ffaba9b16d4b4bb42887a8f,getTodaySportData <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5c7637ceb1016991b9c9ff452be2e83b,timeStamp <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+5c7637ceb1016991b9c9ff452be2e83b,timeStamp <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+b080c3388362eb6d362d34a0ec0cfd87,onReceive action: android.intent.action.SCREEN_ON
+dd5e8a75cb9999e68d33ec6af1e71542,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+b8f897f886cdc4486346681abd7eb530,flush sensor data
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+3ba40b70a6a0a9667e79418182687a80,startTimer start autoSync
+03208761ea4531828cab22fe8b6fd69e,startSync hiSyncOption = <*> <*> <*> <*> <*> <*> = <*> who = <*>
+71d384b3adaae638ae44650cce293dc7,stepSyncOrNot appSynTimes is <*>
+6e805a4cfa8fed2c0847a5042f38be0f,needAutoSync autoSyncSwitch is open
+e4156b5858fee58f2238f4ce71ae1f8f,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+38085a58e00c43d3d7dd99fd1902bdd8,initDataPrivacy the dataPrivacy is true
+f257f2143d5474b271470936f27f9cef,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+1d4b8a6f1d3c1d3b342b64f1911896d8,initUserPrivacy the userPrivacy is true
+3f9b4da29bce17460e76fe659a43a3b3,ifCanSync not! no cloud version
+8764d489fd51dbe0690bead3dc8fab9d,sendSyncFailedBroadcast
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+057ae03f1ef60c8fffae7dcaffdbba73,theDayChanged <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+ff52c40c09db1af28b94617a0f985648,<*>
+ff55d254551075ad9c54532c8343fba1,getStepCounterStatus= true
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+c1f5e07f3085177edcb2073eb2c53eff,registersensorsuccess: true
+ff52c40c09db1af28b94617a0f985648,<*>
+40f31420822373f17be16877e375346c,getTodayBasicStandardSteps= <*>
+9129c162752d2c2a2d3caccc92a03ec3,<*> <*> true
+aa1d16b489cf50ebe6deee18770efe66,getDiffTotalSteps= <*>
+cb05204b8bffb86924ecea32aa73effc,setBasicStandardSteps <*> <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+40f31420822373f17be16877e375346c,getTodayBasicStandardSteps= <*>
+aa1d16b489cf50ebe6deee18770efe66,getDiffTotalSteps= <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+d9c2f230a80170d5d74055cb83ca5379,reload : <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+5cdf7db458e31873aac572840aad763c,REPORT : <*> <*> <*> <*>
+b9adbd560c25dd3b04a391339bd26aad,next <*>
+a4ec7e5b32929eefabc61a5e97e31a93,<*> <*> <*>
+8e5238082033e10515357e335c2477bf,closeNotification...
+ff52c40c09db1af28b94617a0f985648,<*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+93067dc44318c97db7b8767da9e69a1d,onStandStepChanged <*>
+0ce98313a32c5a52423d4d0c18259bf8,<*> <*> <*> <*>
+e0a83abb9145ef1b830be69d0422bc92,getTodayTotalDetailSteps = <*>
+ff52c40c09db1af28b94617a0f985648,<*>
+9300ea38e54c71ab99308cd1523a816b,calculateCaloriesWithCache <*>
+cbcd504ae4d6d9d471b1c543277fcfb6,calculateAltitudeWithCache <*>
+b891c816a5fbff7beb6e996fb0fc3a10,onReceive action: android.intent.action.SCREEN_OFF
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+3ba40b70a6a0a9667e79418182687a80,startTimer start autoSync
+03208761ea4531828cab22fe8b6fd69e,startSync hiSyncOption = <*> <*> <*> <*> <*> <*> = <*> who = <*>
+d9706248d714396c61f029a7e2697cc9,<*> <*> new <*> <*> <*> <*> <*> <*> is <*> <*> is <*>
+71d384b3adaae638ae44650cce293dc7,stepSyncOrNot appSynTimes is <*>
+6e805a4cfa8fed2c0847a5042f38be0f,needAutoSync autoSyncSwitch is open
+e4156b5858fee58f2238f4ce71ae1f8f,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+38085a58e00c43d3d7dd99fd1902bdd8,initDataPrivacy the dataPrivacy is true
+f257f2143d5474b271470936f27f9cef,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+1d4b8a6f1d3c1d3b342b64f1911896d8,initUserPrivacy the userPrivacy is true
+3f9b4da29bce17460e76fe659a43a3b3,ifCanSync not! no cloud version
+8764d489fd51dbe0690bead3dc8fab9d,sendSyncFailedBroadcast
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+d01a3f3402e509df14fa3a56401f164d,processHandleBroadcastAction action:android.intent.action.TIME_TICK
