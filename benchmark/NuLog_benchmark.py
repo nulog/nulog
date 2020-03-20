@@ -3,7 +3,7 @@
 import sys
 
 sys.path.append('../')
-from logparser.NuLogParser import LogParser
+from logparser.NuLog import NuLogParser
 from logparser.utils import evaluator
 
 import os
@@ -114,7 +114,7 @@ for m in range(10):
         indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
         log_file = os.path.basename(setting['log_file'])
 
-        parser = AttentionParser.LogParser(indir=indir, outdir=output_dir, filters=setting['filters'], k=setting['k'], log_format=setting['log_format'])
+        parser = NuLogParser.LogParser(indir=indir, outdir=output_dir, filters=setting['filters'], k=setting['k'], log_format=setting['log_format'])
         parser.parse(log_file, nr_epochs=setting['nr_epochs'], num_samples=setting['num_samples'])
 
         accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std = evaluator.evaluate(
